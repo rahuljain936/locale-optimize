@@ -1,0 +1,5 @@
+{
+  "examples": "Ejemplos",
+  "message.simple": "Un mensaje sencillo.",
+  "message.argument": "¡Hola, {name}! 👋"
+}
